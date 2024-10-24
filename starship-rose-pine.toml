@@ -1,0 +1,152 @@
+palette = "rose-pine"
+format = """
+[░▒▓](surface)\
+$os\
+[](bg:base fg:surface)\
+$directory\
+$git_branch\
+$git_status\
+$hg_branch\
+[ ◦•](text)\
+$fill\
+[•◦ ](text)\
+[ ](fg:surface bg:base)\
+$status\
+$cmd_duration\
+[ ](fg:surface bg:surface)\
+$battery\
+[▓▒░](surface)
+[·](muted)\
+[·](foam)\
+[•](foam)\
+[ ](foam)\
+"""
+
+[fill]
+symbol = "·"
+style = "text"
+
+[directory]
+style = "fg:pine bg:base"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+#[directory.substitutions]
+#"~" = "  "
+#"Applications" = "  "
+#"Desktop" = "  "
+#"Developer" = "  "
+#"Documents" = " 󰈙 "
+#"Downloads" = "  "
+#"Games" = "  "
+#"GitHub" = "  "
+#"Library" = "  "
+#"Movies" = "  "
+#"Music" = "  "
+#"Pictures" = "  "
+#"Projects" = "  "
+#"Public" = "  "
+#"Screenshots" = " 󱣴 "
+#"Videos" = "  "
+#"Thunderbird" = "   "
+#"source" = " 󰈹 "
+#"comm" = "  "
+
+
+[git_branch]
+symbol = ""
+style = "bg:surface"
+format = """[](fg:surface bg:base)\
+[[ $symbol $branch ](fg:iris bg:surface)]($style)"""
+
+[git_status]
+style = "bg:surface"
+format = '[[($all_status$ahead_behind )](fg:iris bg:surface)]($style)'
+
+[hg_branch]
+symbol = ""
+style = "bg:surface"
+format = """[ ](fg:surface bg:base)\
+[[ $symbol $branch ](fg:iris bg:surface)]($style)"""
+
+
+[cmd_duration]
+disabled = false
+min_time = 0
+show_milliseconds = true
+style = "fg:rose bg:surface"
+format = '[$duration]($style)'
+
+[status]
+symbol = '  '
+success_symbol = '  '
+not_executable_symbol = '  '
+not_found_symbol = '  '
+map_symbol = true
+disabled = false
+style = 'fg:rose bg:surface'
+format = '[$symbol]($style)'
+
+
+[battery]
+disabled = false
+full_symbol = ''
+charging_symbol = '⚡️'
+discharging_symbol = ''
+unknown_symbol = ''
+empty_symbol = ''
+format = '[[ $symbol $percentage ](fg:text bg:crust)]($style)'
+
+[[battery.display]]
+threshold = 25
+discharging_symbol = ''
+style = 'fg:yellow bg:crust'
+
+[[battery.display]]
+threshold = 10
+discharging_symbol = ''
+style = 'fg:peach bg:crust'
+
+[[battery.display]]
+threshold = 5
+discharging_symbol = ''
+style = 'bold fg:red bg:crust'
+
+[os]
+format = '[ $symbol]($style)'
+style = 'fg:rose bg:surface'
+disabled = false
+
+[os.symbols]
+Arch = " "
+Debian = " "
+Fedora = " "
+FreeBSD = " "
+Linux = " "
+Macos = " "
+NixOS = "󱄅 "
+Pop = " "
+Raspbian = " "
+Ubuntu = " "
+Unknown = " "
+
+# palette tables should be last in the config ⚓️
+
+[palettes.rose-pine]
+pine = '#31748f'
+base = '#191724'
+surface = '#1f1d2e'
+overlay = '#26233a'
+muted = '#6e6a86'
+subtle = '#908caa'
+text = '#e0def4'
+love = '#eb6f92'
+gold = '#f6c177'
+rose = '#ebbcba'
+foam = '#9ccfd8'
+iris = '#c4a7e7'
+highlight_low = '#21202e'
+highlight_med = '#403d52'
+highlight_high = '#524f67'
+
