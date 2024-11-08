@@ -6,10 +6,13 @@ $shell\
 $env_var\
 $username\
 $sudo\
-$directory\
-$fill\
+$character\
+"""
+
+right_format = """
 $singularity\
 $kubernetes\
+$directory\
 $vcsh\
 $fossil_branch\
 $git_branch\
@@ -81,22 +84,14 @@ $os\
 $container\
 $battery\
 $cmd_duration\
-$line_break\
-$character\
 """
 
 add_newline = true
-
-[line_break]
-disabled = false
 
 [character]
 format = "$symbol "
 success_symbol = "[◉](bold italic bright-yellow)"
 error_symbol = "[⊘](italic purple)"
-
-[fill]
-symbol = ' '
 
 [env_var.VIMSHELL] # vim subshell
 format = "[$env_value]($style)"
