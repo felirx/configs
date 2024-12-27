@@ -1,1 +1,4 @@
 command = /usr/bin/fish
+gtk-tabs-location = hidden
+gtk-titlebar = true
+font-size = 12
