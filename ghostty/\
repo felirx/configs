@@ -1,0 +1,8 @@
+font-family = "0xProto Nerd Font Mono"
+theme = tokyonight
+# background-opacity = 0.5
+# background-blur-radius = 20
+gtk-tabs-location = hidden
+
+command = /usr/bin/fish
+
