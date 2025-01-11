@@ -22,3 +22,7 @@ gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 "[\"<Super><C
 gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 "[\"<Super><Control>F9\"]"
 gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-10 "[\"<Super><Control>F10\"]"
 gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-11 "[\"<Super><Control>F11\"]"
+
+gsettings set org.gnome.desktop.wm.keybindings toggle-maximized "[\"<Super>M\"]"
+gsettings set org.gnome.mutter.keybindings toggle-tiled-left "[\"<Super>H\"]"
+gsettings set org.gnome.mutter.keybindings toggle-tiled-right "[\"<Super>L\"]"
