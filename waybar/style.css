@@ -12,6 +12,10 @@
     margin: 5px;
 }
 
+#custom-notification {
+  font-family: "NotoSansMono Nerd Font";
+}
+
 #clock,
 #network,
 #pulseaudio,
