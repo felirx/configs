@@ -1,27 +1,35 @@
 #!/bin/bash
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "[\"<Control>F1\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-2 "[\"<Control>F2\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "[\"<Control>F3\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "[\"<Control>F4\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "[\"<Control>F5\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "[\"<Control>F6\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "[\"<Control>F7\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "[\"<Control>F8\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 "[\"<Control>F9\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-10 "[\"<Control>F10\"]"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-11 "[\"<Control>F11\"]"
+gsettings set org.gnome.shell.keybindings switch-to-application-1 []
+gsettings set org.gnome.shell.keybindings switch-to-application-2 []
+gsettings set org.gnome.shell.keybindings switch-to-application-3 []
+gsettings set org.gnome.shell.keybindings switch-to-application-4 []
+gsettings set org.gnome.shell.keybindings switch-to-application-5 []
+gsettings set org.gnome.shell.keybindings switch-to-application-6 []
+gsettings set org.gnome.shell.keybindings switch-to-application-7 []
+gsettings set org.gnome.shell.keybindings switch-to-application-8 []
+gsettings set org.gnome.shell.keybindings switch-to-application-9 []
 
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-1 "[\"<Super><Control>F1\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-2 "[\"<Super><Control>F2\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-3 "[\"<Super><Control>F3\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-4 "[\"<Super><Control>F4\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-5 "[\"<Super><Control>F5\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-6 "[\"<Super><Control>F6\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-7 "[\"<Super><Control>F7\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 "[\"<Super><Control>F8\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 "[\"<Super><Control>F9\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-10 "[\"<Super><Control>F10\"]"
-gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-11 "[\"<Super><Control>F11\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "[\"<Super>1\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-2 "[\"<Super>2\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "[\"<Super>3\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "[\"<Super>4\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "[\"<Super>5\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "[\"<Super>6\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "[\"<Super>7\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "[\"<Super>8\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 "[\"<Super>9\"]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-10 "[\"<Super>0\"]"
+
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-1 "[\"<Super><Shift>1\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-2 "[\"<Super><Shift>2\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-3 "[\"<Super><Shift>3\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-4 "[\"<Super><Shift>4\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-5 "[\"<Super><Shift>5\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-6 "[\"<Super><Shift>6\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-7 "[\"<Super><Shift>7\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 "[\"<Super><Shift>8\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 "[\"<Super><Shift>9\"]"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-10 "[\"<Super><Shift>10\"]"
 
 gsettings set org.gnome.desktop.wm.keybindings toggle-maximized "[\"<Super>M\"]"
 gsettings set org.gnome.mutter.keybindings toggle-tiled-left "[\"<Super>H\"]"
