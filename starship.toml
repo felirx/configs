@@ -195,9 +195,10 @@ detect_files = ["package-lock.json", "yarn.lock"]
 version_format = "${major}.${minor}"
 
 [python]
-format = " py [${symbol}${version}]($style)"
+format = " py [${symbol}${pyenv_prefix}${version} (${virtualenv})]($style)"
 symbol = "[⌉](bright-blue)⌊ "
 version_format = "${major}.${minor}"
+pyenv_prefix = "pyenv "
 style = "bright-yellow"
 
 [ruby]
