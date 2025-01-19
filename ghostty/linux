@@ -1,4 +1,5 @@
 command = /usr/bin/fish
 gtk-tabs-location = hidden
+window-decoration = false
 gtk-titlebar = true
 font-size = 14
