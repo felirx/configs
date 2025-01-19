@@ -1,7 +1,7 @@
 * {
-    font-family: "SF Pro Display", sans-serif;
+    font-family: "0xProto Nerd Font Mono", regular;
     font-size: 14px;
-    color: white;
+    color: #c0caf5;
     background: transparent;
 }
 
@@ -13,7 +13,9 @@
 }
 
 #custom-notification {
-  font-family: "NotoSansMono Nerd Font";
+    font-size: 18px;
+    margin: 5px;
+    padding: 2px 5px;
 }
 
 #clock,
@@ -23,7 +25,6 @@
 #memory,
 #temperature {
     padding: 10px;
-    color: white;
 }
 
 #network,
@@ -34,8 +35,6 @@
 }
 
 #clock {
-    font-weight: 700;
-    font-size: 12px;
 }
 
 #window {
@@ -44,16 +43,15 @@
 }
 
 #battery {
-    color: white;
-    background: white;
-    border-radius: 15px;
+    color: #c0caf5;
+    background: transparent;
     margin: 5px;
-    padding: 2px 10px;
+    padding: 2px 5px;
 }
 
 #custom-launcher {
     color: white;
-    padding: 0 20px 0 13px;
+    padding: 0 10px 0 13px;
     font-size: 23px;
 }
 
@@ -76,7 +74,16 @@
 }
 
 #custom-date {
-    color: white;
-    font-size: 13px;
-    font-weight: 700;
+}
+
+tooltip {
+    background-color: #24283b;
+    border: none;
+}
+
+tooltip label {
+    background-color: #24283b;
+    color: #c0caf5;
+    border-radius: 1px;
+    margin: 1px;
 }

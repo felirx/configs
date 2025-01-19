@@ -1,11 +1,11 @@
 {
     // General Waybar configuration
     "layer": "top",
-    "height": 40,
+    "height": 38,
     "margin": 0,
-    "spacing": 10,
+    "spacing": 5,
     "border-size": 2,
-    "padding": 10,
+    "padding": 5,
     // Modules configuration
     "modules-left": [
         "custom/launcher",
@@ -15,6 +15,7 @@
     "modules-right": [
         "tray",
         "custom/notification",
+        "battery",
         "clock"
     ],
     // Module-specific configurations
@@ -34,7 +35,7 @@
         "on-click-middle": "close"
     }, // System tray
     "tray": {
-        "icon-size": 21,
+        "icon-size": 18,
         "spacing": 10
     },
     "hyprland/workspaces": {
@@ -51,14 +52,14 @@
     // Battery
     "battery": {
         "states": {
-            // "good": 95,
+            "good": 95,
             "warning": 30,
             "critical": 15
         },
-        "format": "{icon} {capacity}%",
-        "format-charging": "  {capacity}%",
-        "format-plugged": "  {capacity}%",
-        "format-alt": "{icon}  {time}",
+        "format": "{icon}{capacity}%",
+        "format-charging": "{capacity}%",
+        "format-plugged": "{capacity}%",
+        "format-alt": "{icon}{time}",
         // "format-good": "", // An empty format will hide the module
         // "format-full": "",
         "format-icons": [
