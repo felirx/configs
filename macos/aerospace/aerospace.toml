@@ -9,7 +9,9 @@ after-login-command = []
 # You can use it to add commands that run after AeroSpace startup.
 # 'after-startup-command' is run after 'after-login-command'
 # Available commands : https://nikitabobko.github.io/AeroSpace/commands
-after-startup-command = []
+after-startup-command = [
+  'exec-and-forget borders'
+]
 
 # Start AeroSpace at login
 start-at-login = false
@@ -36,7 +38,8 @@ default-root-container-orientation = 'auto'
 # See https://nikitabobko.github.io/AeroSpace/guide#on-focus-changed-callbacks
 # See https://nikitabobko.github.io/AeroSpace/commands#move-mouse
 # Fallback value (if you omit the key): on-focused-monitor-changed = []
-on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
+#on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
+#on-focus-changed = ['move-mouse window-lazy-center'] # Mouse lazily follows any focus (window or workspace)
 
 # You can effectively turn off macOS "Hide application" (cmd-h) feature by toggling this flag
 # Useful if you don't use this macOS feature, but accidentally hit cmd-h or cmd-alt-h key
@@ -115,7 +118,7 @@ cmd-alt-k = 'join-with up'
 cmd-alt-l = 'join-with right'
 
 cmd-shift-ctrl-m = 'fullscreen'
-cmd--f = 'layout tiling floating'
+cmd-f = 'layout tiling floating'
 # See: https://nikitabobko.github.io/AeroSpace/commands#resize
 alt-shift-minus = 'resize smart -50'
 alt-shift-equal = 'resize smart +50'
@@ -135,7 +138,7 @@ cmd-0 = 'workspace 10'
 # See: https://nikitabobko.github.io/AeroSpace/commands#move-node-to-workspace
 cmd-shift-1 = 'move-node-to-workspace 1'
 cmd-shift-2 = 'move-node-to-workspace 2'
-cmd-shift-3 = 'move-node-to-workspace 3'
+cmd-shift-ctrl-f10 = 'move-node-to-workspace 3'
 cmd-shift-ctrl-f7 = 'move-node-to-workspace 4'
 cmd-shift-ctrl-f9 = 'move-node-to-workspace 5'
 cmd-shift-6 = 'move-node-to-workspace 6'
@@ -179,5 +182,6 @@ shift-down = ['volume set 0', 'mode main']
 6 = 'main'
 7 = 'main'
 8 = 'main'
-9 = 'secondary'
-10 = 'secondary'
+9 = 'main'
+10 = 'main'
+11 = 'secondary'
