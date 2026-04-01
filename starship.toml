@@ -116,7 +116,7 @@ disabled = false
 
 [directory]
 #home_symbol = ""
-truncation_length = 3
+truncation_length = 6
 truncation_symbol = "▦ "
 read_only = " ■"
 style = "blue"
