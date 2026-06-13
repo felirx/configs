@@ -1,0 +1,25 @@
+---@module 'hl'
+
+-- desktop
+
+hl.monitor({
+	output = "HDMI-A-1",
+	mode = "3840x2160@144",
+	position = "0x0",
+	scale = 1,
+	vrr = 2,
+	bitdepth = 10,
+	supports_wide_color = 1,
+	supports_hdr = 1,
+	sdr_min_luminance = 0.005,
+	max_avg_luminance = 203,
+	sdr_max_luminance = 203,
+	max_luminance = 860,
+	cm = "auto",
+})
+
+hl.monitor({
+	output = "DP-2",
+	mode = "highres@highrr",
+	position = "3840x600",
+})
