@@ -1,0 +1,24 @@
+{
+  "Applications": [
+    "/usr/share/applications/kitty.desktop",
+    "/usr/share/applications/jstest-gtk.desktop",
+    "/usr/share/applications/org.kde.dolphin.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.yacreader.YACReader.desktop",
+    "/usr/share/applications/steam.desktop",
+    "/usr/share/applications/net.lutris.Lutris.desktop",
+    "/usr/share/applications/XIVLauncher.desktop",
+    "/usr/share/applications/libreoffice-calc.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop",
+    "/home/felirx/.local/share/applications/google-chrome.desktop",
+    "/usr/share/applications/vu.b4.alsa-scarlett-gui.desktop",
+    "/usr/share/applications/org.kde.kcalc.desktop",
+    "/usr/share/applications/1password.desktop",
+    "/usr/share/applications/timeshift-gtk.desktop",
+    "/usr/share/applications/com.obsproject.Studio.desktop",
+    "/usr/share/applications/phoronix-test-suite.desktop",
+    "/usr/share/applications/com.vysp3r.ProtonPlus.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.github.Matoking.protontricks.desktop",
+    "/var/lib/flatpak/exports/share/applications/io.mgba.mGBA.desktop",
+    "/usr/share/applications/com.github.nobara-project.nobaradrivermanager.desktop"
+  ]
+}

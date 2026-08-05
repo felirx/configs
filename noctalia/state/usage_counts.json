@@ -1,0 +1,31 @@
+{
+  "Applications": {
+    "/home/felirx/.local/share/applications/discord.desktop": 3,
+    "/home/felirx/.local/share/applications/google-chrome.desktop": 31,
+    "/usr/share/applications/1password.desktop": 1,
+    "/usr/share/applications/XIVLauncher.desktop": 38,
+    "/usr/share/applications/com.github.nobara-project.nobaradrivermanager.desktop": 3,
+    "/usr/share/applications/com.github.nobaraproject.nobarawelcome.desktop": 1,
+    "/usr/share/applications/com.obsproject.Studio.desktop": 10,
+    "/usr/share/applications/com.vysp3r.ProtonPlus.desktop": 5,
+    "/usr/share/applications/jstest-gtk.desktop": 10,
+    "/usr/share/applications/kitty.desktop": 41,
+    "/usr/share/applications/libreoffice-calc.desktop": 5,
+    "/usr/share/applications/net.lutris.Lutris.desktop": 9,
+    "/usr/share/applications/org.gnome.DiskUtility.desktop": 2,
+    "/usr/share/applications/org.kde.dolphin.desktop": 66,
+    "/usr/share/applications/org.kde.gwenview.desktop": 2,
+    "/usr/share/applications/org.kde.kcalc.desktop": 4,
+    "/usr/share/applications/org.kde.krita.desktop": 1,
+    "/usr/share/applications/pavucontrol-qt.desktop": 4,
+    "/usr/share/applications/phoronix-test-suite.desktop": 1,
+    "/usr/share/applications/steam.desktop": 13,
+    "/usr/share/applications/systemsettings.desktop": 1,
+    "/usr/share/applications/timeshift-gtk.desktop": 2,
+    "/usr/share/applications/vu.b4.alsa-scarlett-gui.desktop": 2,
+    "/var/lib/flatpak/exports/share/applications/com.github.Matoking.protontricks.desktop": 2,
+    "/var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop": 12,
+    "/var/lib/flatpak/exports/share/applications/com.yacreader.YACReader.desktop": 9,
+    "/var/lib/flatpak/exports/share/applications/io.mgba.mGBA.desktop": 1
+  }
+}

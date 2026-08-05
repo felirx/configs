@@ -1,0 +1,91 @@
+config_version = 2
+
+[bar.default]
+background_opacity = 0.93000000000000005
+center = []
+end = [ "tray", "notifications", "brightness", "battery", "control-center", "date", "clock" ]
+margin_edge = 0
+margin_ends = 0
+padding = 16
+radius = 0
+start = [ "taskbar" ]
+
+[desktop_widgets]
+enabled = false
+
+[lockscreen_widgets]
+enabled = false
+schema_version = 2
+widget_order = [ "lockscreen-login-box@DP-2", "lockscreen-login-box@HDMI-A-1" ]
+
+    [lockscreen_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@DP-2"]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 960.0
+    cy = 957.0
+    output = "DP-2"
+    rotation = 0.0
+    type = "login_box"
+
+    [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1"]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 1920.0
+    cy = 2037.0
+    output = "HDMI-A-1"
+    rotation = 0.0
+    type = "login_box"
+
+[osd.kinds]
+keyboard_layout = false
+media = false
+
+[shell]
+font_family = "0xProto Nerd Font Mono"
+
+    [shell.panel]
+    launcher_categories = false
+    open_near_click_control_center = true
+    transparency_mode = "soft"
+
+[theme]
+community_palette = "Tokyo Night Moon"
+source = "community"
+
+    [theme.templates]
+    builtin_ids = [ "btop", "gtk3", "hyprland", "kcolorscheme", "qt" ]
+
+[wallpaper]
+directory = "/home/felirx/Pictures/Wallpapers"
+
+    [wallpaper.default]
+    path = "/home/felirx/Pictures/Wallpapers/pi5hw3ggw7cd1.png"
+
+    [wallpaper.last]
+    path = "/home/felirx/Pictures/Wallpapers/pi5hw3ggw7cd1.png"
+
+    [wallpaper.monitors.DP-2]
+    path = "/home/felirx/Pictures/Wallpapers/pi5hw3ggw7cd1.png"
+
+    [wallpaper.monitors.HDMI-A-1]
+    path = "/home/felirx/Pictures/Wallpapers/pi5hw3ggw7cd1.png"
+
+[widget.bongocat]
+script = "scripts/bongocat.lua"
+type = "scripted"
+
+[widget.network]
+show_label = false
+
+[widget.taskbar]
+group_by_workspace = true
+scale = 1.3
+workspace_label_placement = "inside"
+
+[widget.workspaces]
+empty_color = "outline"

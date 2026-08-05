@@ -1,0 +1,2858 @@
+{
+  "change_serial": 2113,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1804,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-000512_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785359121602,
+        "icon": "/home/felirx/Pictures/2026-07-30-000512_hyprshot.png",
+        "id": 746,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_4c5fed769aaca02f6afdc3d8661a7729.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785359116602,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1806,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-130528_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785405939314,
+        "icon": "/home/felirx/Pictures/2026-07-30-130528_hyprshot.png",
+        "id": 747,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_71305eb58579b75f12486aa8e70888c1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785405934314,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1808,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-130905_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785406154760,
+        "icon": "/home/felirx/Pictures/2026-07-30-130905_hyprshot.png",
+        "id": 748,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_9eba540fe11b640bf486ba40a592067e.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785406149760,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1810,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-132555_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785407164815,
+        "icon": "/home/felirx/Pictures/2026-07-30-132555_hyprshot.png",
+        "id": 749,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_972d227bea61f593fe8cab6116570239.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785407159815,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1812,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-133447_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785407695815,
+        "icon": "/home/felirx/Pictures/2026-07-30-133447_hyprshot.png",
+        "id": 750,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_30a26d63e255f691fb5abe50fd2f5841.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785407690815,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1814,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-164423_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785419071852,
+        "icon": "/home/felirx/Pictures/2026-07-30-164423_hyprshot.png",
+        "id": 751,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_4f3405b6ef5fccab54d7d5087adaf4d3.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785419066852,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1816,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-164634_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785419203427,
+        "icon": "/home/felirx/Pictures/2026-07-30-164634_hyprshot.png",
+        "id": 752,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_ca8c77dd44ebe1a8257b8479829a3e54.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785419198427,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1818,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-183905_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785425955159,
+        "icon": "/home/felirx/Pictures/2026-07-30-183905_hyprshot.png",
+        "id": 753,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_63ae68835f963c688e235508a8d30522.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785425950159,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1820,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-184307_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785426197379,
+        "icon": "/home/felirx/Pictures/2026-07-30-184307_hyprshot.png",
+        "id": 754,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_8960615cd14acee9ac8cb15812a28339.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785426192379,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1822,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-185649_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785427017948,
+        "icon": "/home/felirx/Pictures/2026-07-30-185649_hyprshot.png",
+        "id": 755,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 77,
+          "image_file": "i_fd95aa06660df516b0e0de53199c5feb.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785427012948,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1824,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-190412_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785427460449,
+        "icon": "/home/felirx/Pictures/2026-07-30-190412_hyprshot.png",
+        "id": 756,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_008acd0c0aac4f60d34a87187cebd622.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785427455449,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1826,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-30-215418_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785437665226,
+        "icon": "/home/felirx/Pictures/2026-07-30-215418_hyprshot.png",
+        "id": 757,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_8e2c045230585e29b825ad0c167475f5.webp",
+          "row_stride": 328,
+          "width": 82
+        },
+        "origin": "external",
+        "received_wall_ms": 1785437660226,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1830,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Which one?",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785487907522,
+        "icon": null,
+        "id": 759,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_ad011047f184563db0a07aaf88361d44.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785487901522,
+        "summary": "⁨SACREDSIN⁩ (⁨#nobara-internal-offtopic⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1838,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-140217_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785495745895,
+        "icon": "/home/felirx/Pictures/2026-07-31-140217_hyprshot.png",
+        "id": 762,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 44,
+          "image_file": "i_20d857b976d524c0e4b04302b2ad837e.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785495740895,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1840,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-140506_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785495915514,
+        "icon": "/home/felirx/Pictures/2026-07-31-140506_hyprshot.png",
+        "id": 763,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 45,
+          "image_file": "i_afe7ecd4bd1d3c1b20a317f72bd71805.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785495910514,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1845,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Reacted ⁨😢⁩ to you \"⁨now that's a fun mess⁩\"",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785497304763,
+        "icon": null,
+        "id": 765,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_03254e5673d211605698a16cfd80b566.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785497298763,
+        "summary": "⁨CaptainNash⁩ (⁨#nobara⁩, ⁨Nobara/Proton-GE⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1847,
+      "notification": {
+        "actions": [
+          "default",
+          "Activate",
+          "settings",
+          "Settings"
+        ],
+        "app_name": "Google Chrome",
+        "body": "/home/felirx/Downloads/XENOMY Fucks Her Pussy Hard Close UP.mp4",
+        "category": null,
+        "desktop_entry": "google-chrome",
+        "expiry_wall_ms": 1785502174620,
+        "icon": "/tmp/com.google.Chrome.scoped_dir.g9vGqT/icon.png",
+        "id": 766,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_8fc8896ba15928cb797293ab664ee348.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785502168620,
+        "summary": "Download complete",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1852,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-172019_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785507628154,
+        "icon": "/home/felirx/Pictures/2026-07-31-172019_hyprshot.png",
+        "id": 768,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_a872d023424ac54f3209554ff2d1a2f1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785507623154,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1854,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-174923_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785509371576,
+        "icon": "/home/felirx/Pictures/2026-07-31-174923_hyprshot.png",
+        "id": 769,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 62,
+          "image_file": "i_298326f91dc731d1f648d4ab352c8b2e.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785509366576,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1856,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-184558_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785512766775,
+        "icon": "/home/felirx/Pictures/2026-07-31-184558_hyprshot.png",
+        "id": 770,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_98dc7ea49c0c0a8a9603632d2ef4f072.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785512761775,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1858,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-193720_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785515849757,
+        "icon": "/home/felirx/Pictures/2026-07-31-193720_hyprshot.png",
+        "id": 771,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_ad0ee2d34a19775bda6033577d618d6c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785515844757,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1860,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-194606_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785516375754,
+        "icon": "/home/felirx/Pictures/2026-07-31-194606_hyprshot.png",
+        "id": 772,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_c4acfcab37f54485655d2d0a2612aa12.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785516370754,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1862,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-201333_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785518021589,
+        "icon": "/home/felirx/Pictures/2026-07-31-201333_hyprshot.png",
+        "id": 773,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_6e28242471313eecce1030cc829c221c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785518016589,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1864,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-201627_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785518195216,
+        "icon": "/home/felirx/Pictures/2026-07-31-201627_hyprshot.png",
+        "id": 774,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_11ed9f67363bf57a944e1aa47b0dd0fe.webp",
+          "row_stride": 332,
+          "width": 83
+        },
+        "origin": "external",
+        "received_wall_ms": 1785518190216,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1866,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-202616_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785518786266,
+        "icon": "/home/felirx/Pictures/2026-07-31-202616_hyprshot.png",
+        "id": 775,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 31,
+          "image_file": "i_c2f10cd75561ed86f0169c9c4b939954.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785518781266,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1870,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-210338_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785521028003,
+        "icon": "/home/felirx/Pictures/2026-07-31-210338_hyprshot.png",
+        "id": 777,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_e3d72c9eaa0fc7d621bdf37ba16127fb.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785521023003,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1872,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-220214_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785524543203,
+        "icon": "/home/felirx/Pictures/2026-07-31-220214_hyprshot.png",
+        "id": 778,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_d721e85b10586b683cda3f0bf0e0b200.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785524538203,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1874,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-223809_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785526698820,
+        "icon": "/home/felirx/Pictures/2026-07-31-223809_hyprshot.png",
+        "id": 779,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_b5d81b8ff130cc8c71f5b989a05ead6d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785526693820,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1876,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-07-31-225209_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785527539586,
+        "icon": "/home/felirx/Pictures/2026-07-31-225209_hyprshot.png",
+        "id": 780,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6f8bea1740429517d97012c4eb4344fb.webp",
+          "row_stride": 356,
+          "width": 89
+        },
+        "origin": "external",
+        "received_wall_ms": 1785527534586,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1878,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-001026_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785532234703,
+        "icon": "/home/felirx/Pictures/2026-08-01-001026_hyprshot.png",
+        "id": 781,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 88,
+          "image_file": "i_323c0ae953147e9b4c2518e3f63b85c4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785532229703,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1880,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-001211_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785532340922,
+        "icon": "/home/felirx/Pictures/2026-08-01-001211_hyprshot.png",
+        "id": 782,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_c95ff564c64e7dd88d880f722e9115ff.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785532335922,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1882,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-134551_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785581160706,
+        "icon": "/home/felirx/Pictures/2026-08-01-134551_hyprshot.png",
+        "id": 783,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_8cfdb1ed47a877ff95814c25c1c12fe3.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785581155706,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1884,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-144125_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785584494531,
+        "icon": "/home/felirx/Pictures/2026-08-01-144125_hyprshot.png",
+        "id": 784,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_01311f11a61a9f618ba47e0479d3ae73.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785584489531,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1886,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-152140_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785586910088,
+        "icon": "/home/felirx/Pictures/2026-08-01-152140_hyprshot.png",
+        "id": 785,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_6bb1b995fa53c8e9dd894e08f71f1794.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785586905088,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1888,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-160654_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785589623085,
+        "icon": "/home/felirx/Pictures/2026-08-01-160654_hyprshot.png",
+        "id": 786,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_e78046af226bfd8a14a670a6dd81a2fb.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785589618085,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1890,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-161109_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785589877824,
+        "icon": "/home/felirx/Pictures/2026-08-01-161109_hyprshot.png",
+        "id": 787,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_80216da129fe326c95172fdabcf6e996.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785589872824,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1894,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-163157_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785591127186,
+        "icon": "/home/felirx/Pictures/2026-08-01-163157_hyprshot.png",
+        "id": 789,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_80e7d180f15ea036c68db91870d58925.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785591122186,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1896,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-164330_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785591819605,
+        "icon": "/home/felirx/Pictures/2026-08-01-164330_hyprshot.png",
+        "id": 790,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_f395e81016a8d7d7a7a2a68aa5df1101.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785591814605,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1898,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-200622_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785603990703,
+        "icon": "/home/felirx/Pictures/2026-08-01-200622_hyprshot.png",
+        "id": 791,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_aeb309bcc4b39aaaba5b6cf26bf1f6ef.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785603985703,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1900,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-01-222345_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785612234328,
+        "icon": "/home/felirx/Pictures/2026-08-01-222345_hyprshot.png",
+        "id": 792,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_52e88b69ea52ba5d556d1564546b2adf.webp",
+          "row_stride": 352,
+          "width": 88
+        },
+        "origin": "external",
+        "received_wall_ms": 1785612229328,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1902,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-02-010423_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785621872783,
+        "icon": "/home/felirx/Pictures/2026-08-02-010423_hyprshot.png",
+        "id": 793,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_fdb0ecdf87b6eaa4621de4a35c854d51.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785621867783,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1910,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-02-135307_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785667996964,
+        "icon": "/home/felirx/Pictures/2026-08-02-135307_hyprshot.png",
+        "id": 796,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_0258715c8eb252f258a5e4e4088ab549.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785667991964,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1912,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-02-144146_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785670916044,
+        "icon": "/home/felirx/Pictures/2026-08-02-144146_hyprshot.png",
+        "id": 797,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_3c56058e0a6399caaf89e470cd7623de.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785670911044,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1914,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-02-151334_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785672822569,
+        "icon": "/home/felirx/Pictures/2026-08-02-151334_hyprshot.png",
+        "id": 798,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_1af17a48b3604383de309d8381db54d9.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785672817569,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1916,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-02-152806_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785673694859,
+        "icon": "/home/felirx/Pictures/2026-08-02-152806_hyprshot.png",
+        "id": 799,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_94690125ee41a9be2fddafe3406270db.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785673689859,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1918,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-02-170956_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785679804523,
+        "icon": "/home/felirx/Pictures/2026-08-02-170956_hyprshot.png",
+        "id": 800,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_78bd55761291e16de1e776d6a6fe5f29.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785679799523,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1920,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-02-174758_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785682087061,
+        "icon": "/home/felirx/Pictures/2026-08-02-174758_hyprshot.png",
+        "id": 801,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_70bd4e0ba493da5f7fc07ea7ceb0fac8.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785682082061,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1924,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Fr though",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785736321838,
+        "icon": null,
+        "id": 803,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_353930ceee28cf88ea4c2ce5fc6d2ee0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785736315838,
+        "summary": "⁨Glacier2.0⁩ (⁨#nobara⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1926,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Like all ports?",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785737015209,
+        "icon": null,
+        "id": 804,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_353930ceee28cf88ea4c2ce5fc6d2ee0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785737009209,
+        "summary": "⁨Glacier2.0⁩ (⁨#nobara⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1931,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "??? What cmd",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785737408766,
+        "icon": null,
+        "id": 806,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_353930ceee28cf88ea4c2ce5fc6d2ee0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785737402766,
+        "summary": "⁨Glacier2.0⁩ (⁨#nobara⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1936,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "hmm?",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785738905579,
+        "icon": null,
+        "id": 808,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_353930ceee28cf88ea4c2ce5fc6d2ee0.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785738899579,
+        "summary": "⁨Glacier2.0⁩ (⁨#nobara⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1944,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-03-222848_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785785341055,
+        "icon": "/home/felirx/Pictures/2026-08-03-222848_hyprshot.png",
+        "id": 811,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 45,
+          "image_file": "i_4c9b3e03215a5ed330aa1ff02ee11207.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785785336055,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1946,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-03-222944_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785785392514,
+        "icon": "/home/felirx/Pictures/2026-08-03-222944_hyprshot.png",
+        "id": 812,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 46,
+          "image_file": "i_4514189508bb8be41521b55935bdd270.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785785387514,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1953,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "se 5070 saatta olla paska",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785786988721,
+        "icon": null,
+        "id": 815,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785786982721,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1958,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "600€ oli MSI ventus x2",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785787080110,
+        "icon": null,
+        "id": 817,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785787074110,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1971,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "se kyl toimi enne sitä stress settiä",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785787277202,
+        "icon": null,
+        "id": 822,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785787271202,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1978,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "en mä pysty kosak demo",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785787363281,
+        "icon": null,
+        "id": 825,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785787357281,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 1983,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "72C oli läppöt load alla",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785787406058,
+        "icon": null,
+        "id": 827,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785787400058,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1993,
+      "notification": {
+        "actions": [
+          "default",
+          "Action"
+        ],
+        "app_name": "qBittorrent",
+        "body": "'群P淫乱盛宴小艺同学姐妹三人同框骑屌榨精 嘴里一根 逼里一根 淫声荡语环绕 男人终极梦想盛宴' has finished downloading.",
+        "category": null,
+        "desktop_entry": "org.qbittorrent.qBittorrent",
+        "expiry_wall_ms": 1785832805311,
+        "icon": "qbittorrent",
+        "id": 831,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785832799311,
+        "summary": "Download completed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1995,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-115221_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785833557401,
+        "icon": "/home/felirx/Pictures/2026-08-04-115221_hyprshot.png",
+        "id": 832,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 24,
+          "image_file": "i_8581667b93669997a58df076ca83384a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785833552401,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 1999,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-172025_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785853233847,
+        "icon": "/home/felirx/Pictures/2026-08-04-172025_hyprshot.png",
+        "id": 834,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_6c9496217795c49db269c9c31b0948cf.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785853228847,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2004,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Joo mut psubtaisnolla onglema",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785854259737,
+        "icon": null,
+        "id": 836,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785854253737,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2009,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Et Time to game",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785854297598,
+        "icon": null,
+        "id": 838,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785854291598,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2017,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "mun vanha psu olis ollut fine",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785854423490,
+        "icon": null,
+        "id": 841,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6a9d76c2bace6e178c5c0e55945b45f5.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785854417490,
+        "summary": "Raicer",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2023,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-183110_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785857479151,
+        "icon": "/home/felirx/Pictures/2026-08-04-183110_hyprshot.png",
+        "id": 843,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_cb2d1757511646e3ae90f3ef9c95f113.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785857474151,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2025,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-192335_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785860623450,
+        "icon": "/home/felirx/Pictures/2026-08-04-192335_hyprshot.png",
+        "id": 844,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_f20f8c788df9fdb83c6efc973df4a087.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785860618450,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2027,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-193413_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785861262309,
+        "icon": "/home/felirx/Pictures/2026-08-04-193413_hyprshot.png",
+        "id": 845,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 54,
+          "image_file": "i_9808ec55f28e974e42079f6898e28bf8.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785861257309,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2029,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-210812_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785866903325,
+        "icon": "/home/felirx/Pictures/2026-08-04-210812_hyprshot.png",
+        "id": 846,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 48,
+          "image_file": "i_3abf3514b087e3c6c592b313c122143c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785866898325,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2031,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-210844_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785866934139,
+        "icon": "/home/felirx/Pictures/2026-08-04-210844_hyprshot.png",
+        "id": 847,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 40,
+          "image_file": "i_75893fa00b889faa75e7d368c6440100.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785866929139,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2033,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-04-222326_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785871415877,
+        "icon": "/home/felirx/Pictures/2026-08-04-222326_hyprshot.png",
+        "id": 848,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 21,
+          "image_file": "i_a46ed64a849638d4b5b6612274a2ce99.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785871410877,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2035,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-05-013725_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785883053744,
+        "icon": "/home/felirx/Pictures/2026-08-05-013725_hyprshot.png",
+        "id": 849,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 17,
+          "image_file": "i_3d7f85f045a33c244bd75b8dc7ee9fe9.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785883048744,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2039,
+      "notification": {
+        "actions": [],
+        "app_name": "Hyprshot",
+        "body": "Image saved in /home/felirx/Pictures/2026-08-05-121909_hyprshot.png and copied to the clipboard.",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1785921557300,
+        "icon": "/home/felirx/Pictures/2026-08-05-121909_hyprshot.png",
+        "id": 851,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_04d2d6595cfc9d644fec6df0b4403748.webp",
+          "row_stride": 280,
+          "width": 70
+        },
+        "origin": "external",
+        "received_wall_ms": 1785921552300,
+        "summary": "Screenshot saved",
+        "timeout": 5000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2041,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "Let me try a backport of that commit ⁨@felirx⁩",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785924568313,
+        "icon": null,
+        "id": 852,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_272d52580f4481963b228e9d1bebc118.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785924562313,
+        "summary": "⁨LionHeartP⁩ (⁨#nobara-internal-offtopic⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2046,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "hypr as 0.14.0-2",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785930274971,
+        "icon": null,
+        "id": 854,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_272d52580f4481963b228e9d1bebc118.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785930268971,
+        "summary": "⁨LionHeartP⁩ (⁨#nobara-internal-offtopic⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2051,
+      "notification": {
+        "actions": [
+          "default",
+          "View"
+        ],
+        "app_name": "discord",
+        "body": "depends on the language for me xD",
+        "category": null,
+        "desktop_entry": "discord",
+        "expiry_wall_ms": 1785932322284,
+        "icon": null,
+        "id": 856,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3aea5009a3f9e2f7f45fdb7f57ce8580.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "received_wall_ms": 1785932316284,
+        "summary": "⁨Flurren⁩ (⁨#nobara-internal-offtopic⁩, ⁨linux⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2061,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785933327867,
+        "icon": "drive-removable-media-usb",
+        "id": 860,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785933321867,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2067,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934007068,
+        "icon": "drive-removable-media-usb",
+        "id": 862,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934001068,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2069,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934504858,
+        "icon": "drive-removable-media-usb",
+        "id": 863,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934498858,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2071,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934515887,
+        "icon": "drive-removable-media-usb",
+        "id": 864,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934509887,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2073,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934516479,
+        "icon": "drive-removable-media-usb",
+        "id": 865,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934510479,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2075,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934519412,
+        "icon": "drive-removable-media-usb",
+        "id": 866,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934513412,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2077,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "GenesysLogic USB2.0 Hub has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934531135,
+        "icon": "drive-removable-media-usb",
+        "id": 867,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934525135,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2079,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "GenesysLogic USB2.0 Hub has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934531821,
+        "icon": "drive-removable-media-usb",
+        "id": 868,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934525821,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2081,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934557544,
+        "icon": "drive-removable-media-usb",
+        "id": 869,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934551544,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2083,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934622795,
+        "icon": "drive-removable-media-usb",
+        "id": 870,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934616795,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2085,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934623412,
+        "icon": "drive-removable-media-usb",
+        "id": 871,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934617412,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2087,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "Ploopy Corporation Ploopy Adept Trackball has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934630944,
+        "icon": "drive-removable-media-usb",
+        "id": 872,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934624944,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2089,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "Ploopy Corporation Ploopy Adept Trackball has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934631570,
+        "icon": "drive-removable-media-usb",
+        "id": 873,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934625570,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2091,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934642623,
+        "icon": "drive-removable-media-usb",
+        "id": 874,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934636623,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2093,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "Ploopy Corporation Ploopy Adept Trackball has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934643412,
+        "icon": "drive-removable-media-usb",
+        "id": 875,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934637412,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2096,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934645423,
+        "icon": "drive-removable-media-usb",
+        "id": 876,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934639423,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2097,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934645424,
+        "icon": "drive-removable-media-usb",
+        "id": 877,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934639424,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2099,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934651944,
+        "icon": "drive-removable-media-usb",
+        "id": 878,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934645944,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2101,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934652567,
+        "icon": "drive-removable-media-usb",
+        "id": 879,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934646567,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2103,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934669409,
+        "icon": "drive-removable-media-usb",
+        "id": 880,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934663409,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2105,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934669986,
+        "icon": "drive-removable-media-usb",
+        "id": 881,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934663986,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2107,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934672259,
+        "icon": "drive-removable-media-usb",
+        "id": 882,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934666259,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2109,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934672778,
+        "icon": "drive-removable-media-usb",
+        "id": 883,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934666778,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 2111,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been disconnected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934673177,
+        "icon": "drive-removable-media-usb",
+        "id": 884,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934667177,
+        "summary": "USB Device Removed",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2113,
+      "notification": {
+        "actions": [],
+        "app_name": "System Notifications",
+        "body": "felirx cosmotyl has been connected.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1785934673629,
+        "icon": "drive-removable-media-usb",
+        "id": 885,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1785934667629,
+        "summary": "USB Device Detected",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    }
+  ],
+  "next_id": 886,
+  "version": 2
+}
