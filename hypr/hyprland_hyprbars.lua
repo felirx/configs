@@ -4,7 +4,7 @@ hl.config({
 	plugin = {
 		hyprbars = {
 			bar_height = 30,
-			bar_precedence_over_border = false,
+			bar_precedence_over_border = true,
 			bar_part_of_window = true,
 			bar_buttons_alignment = "left",
 			bar_color = "rgb(1a1b26)",

@@ -4,7 +4,7 @@
 
 -- Autostart
 hl.on("hyprland.start", function()
-	hl.exec_cmd("[workspace 3 silent] $terminal")
+	hl.exec_cmd("[workspace 3 silent] kitty")
 	hl.exec_cmd("[workspace 5 silent] discord")
 	hl.exec_cmd("[workspace 6 silent] steam")
 	hl.exec_cmd("[workspace 9 silent] virt-manager")

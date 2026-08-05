@@ -81,6 +81,7 @@ hl.window_rule({
 	},
 	workspace = 1,
 	fullscreen = 1,
+	content = "game",
 })
 
 hl.window_rule({

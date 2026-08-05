@@ -24,6 +24,6 @@ hl.config({
 })
 
 hl.env("XCURSOR_THEME", "Breeze_Dark_Fuchsia")
-hl.env("XCURSOR_SIZE", 48)
+hl.env("XCURSOR_SIZE", 64)
 hl.env("HYPRCURSOR_THEME", "Breeze_Dark_Fuchsia")
-hl.env("HYPRCURSOR_SIZE", 48)
+hl.env("HYPRCURSOR_SIZE", 64)
